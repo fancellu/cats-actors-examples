@@ -1,6 +1,11 @@
 # Cats Effect Actors examples with cats-actors
 
-Spins up 3 Actors
+### To find out a lot more about cats-actors
+
+https://github.com/suprnation/cats-actors
+
+https://github.com/cloudmark/cats-actor-sample
+
 
 ## HelloWorldActor
 
@@ -14,7 +19,9 @@ A replying actor, echoing back incoming string
 
 A replying actors with Int state, that takes Increment GetCount commands
 
-## Extra functionality
+## Functionality
+
+Spins up above 3 Actors
 
 Spins up some fibers and points to HelloWorldActor
 
